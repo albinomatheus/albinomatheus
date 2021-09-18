@@ -9,5 +9,5 @@
 </div>
   
 <div> 
-  ![](https://img.shields.io/badge/twitter/follow/albinomatheus?label=Follow)
+  ![](https://img.shields.io/twitter/follow/albinomatheus?style=for-the-badge)
 </div>
