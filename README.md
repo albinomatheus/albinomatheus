@@ -7,14 +7,11 @@
 - 💀 I am currently working on mortality estimation for the 19th and 20th century Brazil and Sao Paulo state
 - 🌱 I am currently learning about new statistical approaches in Historical Demography
 
-
 <div>
   <a href="https://github.com/albinomatheus">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=albinomatheus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albinomatheus&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-### Languages and Tools
 
 <div style="display: inline_block"><br>
   <img align="center" alt="RStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
@@ -28,4 +25,3 @@
   <img align="center" alt="Inkscape" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-plain.svg">
   <img align="center" alt="GIMP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-plain.svg">
 </div>
-
