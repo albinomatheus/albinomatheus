@@ -5,7 +5,7 @@
 - 📈 Bachelor in Business Economics, University of Sao Paulo (USP)
 - 📖 My main academic interests are economic history of Brazil, historical demography, social inequalities in health and mortality.
 - 💀 I am currently working on mortality estimation for the 19th and 20th century Brazil and Sao Paulo state
-- 🌱 I am currently learning about new statistical approaches in Historical Demography
+- 🌱 Learning about new statistical approaches in Historical Demography
 
 <div>
   <a href="https://github.com/albinomatheus">
