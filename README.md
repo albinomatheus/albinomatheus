@@ -1,7 +1,7 @@
 ## Hello! 
 ![](https://img.shields.io/twitter/follow/albinomatheus?style=flat-square) ![](https://img.shields.io/github/followers/albinomatheus?style=flat-square)
 
-- 👪 PhD candidate and Master in Demography, University of Campinas (Unicamp)
+- 👪 PhD student and Master in Demography, University of Campinas (Unicamp)
 - 📈 Bachelor in Business Economics, University of Sao Paulo (USP)
 - 📖 My main academic interests are economic history of Brazil, historical demography, social inequalities in health and mortality.
 - 💀 I am currently working on mortality estimation for the 19th and 20th century Brazil and Sao Paulo state
